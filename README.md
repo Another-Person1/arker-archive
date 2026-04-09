@@ -5,7 +5,7 @@
 >
 >This repository is a static archive preserved for forensic auditing and youth safeguarding oversight. The source code contained herein implements automated snapshotting, permanent archival of student repositories, and the "forced persistence" of digital footprints belonging to minors.
 >
->All technical liability, privacy inquiries, or complaints regarding the original source code, its intended functions, or its deployment by the Hack Foundation must be directed exclusively to the original project maintainers via the [official Hack Club GitHub organization](https://github.com/orgs/hackclub/people) or their public contact channels on the [Hack Club website](https://hackclub.com). The owner of this forensic mirror provides no contact relay for the original authors.
+>All technical liability, privacy inquiries, or complaints regarding these operations must be directed to the organization's leadership and engineering staff via the contact information on the [Hack Club GitHub organization](https://github.com/orgs/hackclub/people) or on the official [Hack Club website](https://hackclub.com).
 
 >[!IMPORTANT]
 >
