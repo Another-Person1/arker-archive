@@ -5,7 +5,7 @@
 >
 >This repository is a static archive preserved for forensic auditing and youth safeguarding oversight. The source code contained herein implements automated snapshotting, permanent archival of student repositories, and the "forced persistence" of digital footprints belonging to minors.
 >
->All technical liability, privacy inquiries, or complaints regarding these operations must be directed to the original authors via the contact information in the repository metadata or on the official Hack Club website.
+>All technical liability, privacy inquiries, or complaints regarding the original source code, its intended functions, or its deployment by the Hack Foundation must be directed exclusively to the original project maintainers via the [official Hack Club GitHub organization](https://github.com/orgs/hackclub/people) or their public contact channels on the [Hack Club website](https://hackclub.com). The owner of this forensic mirror provides no contact relay for the original authors.
 
 >[!IMPORTANT]
 >
@@ -23,17 +23,18 @@
 >
 >* Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, itch.io, YouTube, and AWS) are the property of their respective owners. The archiver claims no ownership rights over any third-party trademarks mentioned herein.
 
-Audit Summary
+## Audit Summary
+
 This fork preserves the repository state as of April 8, 2026. This snapshot was captured to document the storage and archival backend utilized by the Orpheus Engine data pipeline. This archive ensures a permanent public record of the technical mechanisms used to maintain permanent "shadow copies" of student projects.
 
 Documented Functional Constraints
 The following operations are hard-coded into this suite and are utilized by the Orpheus Engine to maintain data persistence:
 
-Bypass of Privacy Controls: Capable of creating "Chrome snapshots" and "git clones" of student projects. When triggered by the Orpheus Engine, this allows the organization to maintain a permanent copy of a student's work even if the student later deletes the original or makes it private.
+* Capable of creating "Chrome snapshots" and "git clones" of student projects. When triggered by the Orpheus Engine, this allows the organization to maintain a permanent copy of a student's work even if the student later deletes the original or makes it private.
 
-Non-Consensual Persistence: Operates as a "forced memory" layer, effectively removing a minor's ability to manage their digital footprint or exercise a "right to be forgotten" once a project has been submitted for review.
+* Operates as a "forced memory" layer, effectively removing a minor's ability to manage their digital footprint or exercise a "right to be forgotten" once a project has been submitted for review.
 
-Compressed Mass Storage: Utilizes zstd compression and S3-compatible cloud storage to facilitate the long-term, high-volume retention of student-generated content.
+* Utilizes zstd compression and S3-compatible cloud storage to facilitate the long-term, high-volume retention of student-generated content.
 
 ---
 
