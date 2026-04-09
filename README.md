@@ -11,17 +11,17 @@
 >
 > **LEGAL NOTICE & ARCHIVE PROTOCOL**
 >
->No Support of Content: The archiver does not support, endorse, or condone any viewpoints, ideologies, or organizational practices expressed, implied, or >implemented within this repository.
+>* No Support of Content: The archiver does not support, endorse, or condone any viewpoints, ideologies, or organizational practices expressed, implied, or implemented within this repository.
 >
->No Warranties: This archive is provided "as-is" for transparency and forensic purposes; no warranties of any kind are provided regarding the functionality, safety, or legality of the contained code.
+>* No Warranties: This archive is provided "as-is" for transparency and forensic purposes; no warranties of any kind are provided regarding the functionality, safety, or legality of the contained code.
 >
->Non-Production Warning: The archiver strictly does not condone the use of this software in a production environment and/or with real-world user data. This code implements data persistence mechanisms that may bypass a user's "Right to be Forgotten" and violate international privacy standards.
+>* Non-Production Warning: The archiver strictly does not condone the use of this software in a production environment and/or with real-world user data. This code implements data persistence mechanisms that may bypass a user's "Right to be Forgotten" and violate international privacy standards.
 >
->Purpose of Archive: This repository is maintained strictly for security and privacy audits, legal documentation, historical archival, and forensic research using simulated/synthetic data. It serves as a public interest case study in the degradation of nonprofit transparency and as a technical reference for the infrastructure used in centralized youth surveillance.
+>* Purpose of Archive: This repository is maintained strictly for security and privacy audits, legal documentation, historical archival, and forensic research using simulated/synthetic data. It serves as a public interest case study in the degradation of nonprofit transparency and as a technical reference for the infrastructure used in centralized youth surveillance.
 >
->Non-Affiliation: The archiver (the owner of this fork) is not a contributor to this project, has no affiliation with the original authors (including but not limited to Hack Club or the Hack Foundation), and assumes no responsibility for the function or deployment of this code.
+>* Non-Affiliation: The archiver (the owner of this fork) is not a contributor to this project, has no affiliation with the original authors (including but not limited to Hack Club or the Hack Foundation), and assumes no responsibility for the function or deployment of this code.
 >
->Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, itch.io, YouTube, and AWS) are the property of their respective owners. The archiver claims no ownership rights over any third-party trademarks mentioned herein.
+>* Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, itch.io, YouTube, and AWS) are the property of their respective owners. The archiver claims no ownership rights over any third-party trademarks mentioned herein.
 
 Audit Summary
 This fork preserves the repository state as of April 8, 2026. This snapshot was captured to document the storage and archival backend utilized by the Orpheus Engine data pipeline. This archive ensures a permanent public record of the technical mechanisms used to maintain permanent "shadow copies" of student projects.
