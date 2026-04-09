@@ -35,7 +35,9 @@ Non-Consensual Persistence: Operates as a "forced memory" layer, effectively rem
 
 Compressed Mass Storage: Utilizes zstd compression and S3-compatible cloud storage to facilitate the long-term, high-volume retention of student-generated content.
 
-Original Project Documentation (Unchanged)
+---
+
+## Original Project Documentation (Unchanged)
 
 A self-hostable minimalist version of <https://archive.org>.
 
