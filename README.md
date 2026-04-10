@@ -1,27 +1,32 @@
-# Arker Archive (April 8, 2026)
+# Hack Club Arker Archive (April 8, 2026)
 >[!CAUTION]
 >
-> **TECHNICAL AUDIT NOTICE**
+>**TECHNICAL AUDIT NOTICE**
 >
->This repository is a static archive preserved for forensic auditing and youth safeguarding oversight. The source code contained herein implements automated snapshotting, permanent archival of student repositories, and the "forced persistence" of digital footprints belonging to minors.
+>This repository is **a static archive** preserved for forensic auditing and youth safeguarding oversight.
 >
->All technical liability, privacy inquiries, or complaints regarding these operations must be directed to the organization's leadership and engineering staff via the contact information on the [Hack Club GitHub organization](https://github.com/orgs/hackclub/people) or on the official [Hack Club website](https://hackclub.com).
+>All technical liability, privacy inquiries, or complaints regarding these operations **must be directed to Hack Club's leadership and engineering staff** via the contact information on the [Hack Club GitHub organization](https://github.com/orgs/hackclub/people) or on the official [Hack Club website](https://hackclub.com).
 
->[!IMPORTANT]
->
+> [!IMPORTANT]
+> 
 > **LEGAL NOTICE & ARCHIVE PROTOCOL**
 >
->* No Support of Content: The archiver does not support, endorse, or condone any viewpoints, ideologies, or organizational practices expressed, implied, or implemented within this repository.
+> * No Support of Content: The archiver **does not support, endorse, or condone** any viewpoints, ideologies, or organizational practices expressed, implied, or implemented within this repository.
 >
->* No Warranties: This archive is provided "as-is" for transparency and forensic purposes; no warranties of any kind are provided regarding the functionality, safety, or legality of the contained code.
+> * No Warranties: This archive is **provided "as-is" for transparency and forensic purposes**; no warranties of any kind are provided regarding the functionality, safety, or legality of the contained code.
 >
->* Non-Production Warning: The archiver strictly does not condone the use of this software in a production environment and/or with real-world user data. This code implements data persistence mechanisms that may bypass a user's "Right to be Forgotten" and violate international privacy standards.
+> * Non-Production Warning: **The archiver strictly does not condone the use of this software in a production environment and/or with real-world user data.** This code implements surveillance and profiling mechanisms that may violate international privacy standards and youth safeguarding regulations.
 >
->* Purpose of Archive: This repository is maintained strictly for security and privacy audits, legal documentation, historical archival, and forensic research using simulated/synthetic data. It serves as a public interest case study in the degradation of nonprofit transparency and as a technical reference for the infrastructure used in centralized youth surveillance.
+> * Purpose of Archive: **This repository is maintained strictly for security and privacy audits, legal documentation, historical archival, and forensic research using simulated/synthetic data.** It serves as a public interest case study in the degradation of nonprofit transparency and as a technical reference for the ethical failures of centralized youth surveillance infrastructure.
 >
->* Non-Affiliation: The archiver (the owner of this fork) is not a contributor to this project, has no affiliation with the original authors (including but not limited to Hack Club or the Hack Foundation), and assumes no responsibility for the function or deployment of this code.
+> * Non-Affiliation: The archiver (the owner of this fork) **is not a contributor to this project**, has **no affiliation with the original authors** (**including but not limited to** Hack Club employees/contractors on this repository, Hack Club, or the Hack Foundation), and **assumes no responsibility for the function or deployment of this code.**
 >
->* Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, itch.io, YouTube, and AWS) are the property of their respective owners. The archiver claims no ownership rights over any third-party trademarks mentioned herein.
+> * Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, itch.io, YouTube, and AWS) are the property of their respective owners. **The archiver claims no ownership rights over any third-party trademarks mentioned herein.**
+
+> [!NOTE]
+>
+> Any links below the divider line link to Hack Club owned/operated servers on the internet. **I do not control the links below**, so visit them at your own risk using appropriate cybersecurity procedures as necessary.
+>
 
 ## Audit Summary
 
