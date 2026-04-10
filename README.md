@@ -19,7 +19,7 @@
 >
 > * Purpose of Archive: **This repository is maintained strictly for security and privacy audits, legal documentation, historical archival, and forensic research using simulated/synthetic data.** It serves as a public interest case study in the degradation of nonprofit transparency and as a technical reference for the ethical failures of centralized youth surveillance infrastructure.
 >
-> * Non-Affiliation: The archiver (the owner of this fork) **is not a contributor to this project**, has **no affiliation with the original authors** (**including but not limited to** Hack Club employees/contractors on this repository, Hack Club, or the Hack Foundation), and **assumes no responsibility for the function or deployment of this code.**
+> * Non-Affiliation: The archiver (the owner of this fork) **is not a contributor to this project**, has **no affiliation with the original authors** (**including but not limited to** Zach Latta, Hack Club employees/contractors on this repository, Hack Club, or the Hack Foundation), and **assumes no responsibility for the function or deployment of this code.**
 >
 > * Trademark Notice: All third-party trademarks mentioned (including but not limited to Hack Club, The Hack Foundation, GitHub, Google, itch.io, YouTube, and AWS) are the property of their respective owners. **The archiver claims no ownership rights over any third-party trademarks mentioned herein.**
 
